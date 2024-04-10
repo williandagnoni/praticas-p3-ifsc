@@ -1,4 +1,4 @@
-package praticas;
+package lista_3;
 
 public class questao__1 {
 	    public String nome;
